@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/content-script-loader.index.ts.0ab46b91.a6118ac5.js"
+        "assets/content-script-loader.index.ts.51f7a123.3e286d8b.js"
       ],
       "matches": [
         "*://*/*"
@@ -32,7 +32,7 @@
       "run_at": "document_end",
       "all_frames": true,
       "css": [
-        "assets/index.ts.0bd48df0.css"
+        "assets/index.ts.f3126cee.css"
       ]
     }
   ],
@@ -60,7 +60,7 @@
       ],
       "resources": [
         "assets/tools.9f60315d.js",
-        "assets/index.ts.0ab46b91.js"
+        "assets/index.ts.51f7a123.js"
       ],
       "use_dynamic_url": true
     }
