@@ -24,15 +24,15 @@
   "content_scripts": [
     {
       "js": [
-        "assets/content-script-loader.index.ts.232a439a.ac0ffad9.js"
+        "assets/content-script-loader.index.ts.e49e0e1f.6f8a81eb.js"
       ],
       "matches": [
         "*://*/*"
       ],
       "run_at": "document_end",
-      "all_frames": true,
+      "all_frames": false,
       "css": [
-        "assets/index.ts.f3126cee.css"
+        "assets/index.ts.84c452ed.css"
       ]
     }
   ],
@@ -60,7 +60,7 @@
       ],
       "resources": [
         "assets/tools.9f60315d.js",
-        "assets/index.ts.232a439a.js"
+        "assets/index.ts.e49e0e1f.js"
       ],
       "use_dynamic_url": true
     }
